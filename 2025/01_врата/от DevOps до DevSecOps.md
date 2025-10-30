@@ -6,54 +6,48 @@
 
 Задание
 
-![photo_1_2025-10-20_19-17-50](https://github.com/user-attachments/assets/6cc826c1-7880-4e05-8427-5b6ff1214d43)
 
-Описание задания
+<img width="735" height="406" alt="image" src="https://github.com/user-attachments/assets/4f71e293-134f-42dc-8f1f-2250d745e7b0" />
 
-![photo_2_2025-10-20_19-17-50](https://github.com/user-attachments/assets/2e1d5ee4-b371-44cc-8b3b-f435a5cff31a)
 
 Вопрос 1
 
-![photo_3_2025-10-20_19-17-50](https://github.com/user-attachments/assets/4449da9e-7f06-4bf4-b902-a23c5201fae9)
+<img width="729" height="828" alt="image" src="https://github.com/user-attachments/assets/b2f7dfd8-3ab9-43ab-8316-bb29269da288" />
 
 
 Вопрос 2
 
-![photo_4_2025-10-20_19-17-50](https://github.com/user-attachments/assets/7fcb9089-835f-48f5-9221-3dc406c5c705)
+<img width="734" height="770" alt="image" src="https://github.com/user-attachments/assets/9ba961e3-8d86-4422-9cbd-9f1d770cba85" />
 
 
 Вопрос 3
 
-![photo_5_2025-10-20_19-17-50](https://github.com/user-attachments/assets/320d1cd1-8072-4fd5-84e8-902021eeada8)
+<img width="730" height="788" alt="image" src="https://github.com/user-attachments/assets/0944b0fd-6964-4b55-afe4-63f0b10ebe42" />
 
 
 Вопрос 4
 
-![photo_6_2025-10-20_19-17-50](https://github.com/user-attachments/assets/25e68a43-f0fb-46e6-b001-69ededd86809)
+<img width="726" height="788" alt="image" src="https://github.com/user-attachments/assets/7d7bc6ef-de7e-4c98-918b-abd7adc7c276" />
 
 
 Вопрос 5
 
-![photo_7_2025-10-20_19-17-50](https://github.com/user-attachments/assets/7773ba51-05ca-47a2-9a1b-eae92cc33576)
+<img width="736" height="795" alt="image" src="https://github.com/user-attachments/assets/a640a3ab-29a7-4598-96b0-5d27e43bf1c7" />
 
 
 Вопрос 6
 
-![photo_8_2025-10-20_19-17-50](https://github.com/user-attachments/assets/6ad69a40-2b59-458f-a9a9-8b2c37366e0b)
+<img width="734" height="766" alt="image" src="https://github.com/user-attachments/assets/e3b54724-cee1-447e-af0d-654739d3cecc" />
 
 
 Вопрос 7
 
-![photo_9_2025-10-20_19-17-50](https://github.com/user-attachments/assets/d6f7a42b-4c0d-4343-ac02-d8c21bff07fb)
+<img width="726" height="811" alt="image" src="https://github.com/user-attachments/assets/732da4b8-04c8-4a33-a6d6-b78057250fcd" />
 
 
 Вопрос 8
 
-![photo_10_2025-10-20_19-17-50](https://github.com/user-attachments/assets/db9e99ae-a853-4445-bba1-eac2f3025614)
-
-Результат
-
-![photo_11_2025-10-20_19-17-50](https://github.com/user-attachments/assets/21b1ef4e-a447-4f11-a630-bccfda4cdb80)
+<img width="734" height="767" alt="image" src="https://github.com/user-attachments/assets/e40c333d-5fb3-45ad-91f7-b035b14b6174" />
 
 
 P.S.: коллеги сообщили, что вопросов в этом задании больше, так что вот все, которые попадались:
